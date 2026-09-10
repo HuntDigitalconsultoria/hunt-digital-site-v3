@@ -11,7 +11,7 @@ Os resultados dos casos são relatos de projetos específicos publicados pela Hu
 - [Resumo da Hunt em Markdown](https://huntdigital.com.br/hunt.md): Serviços, método, seis casos de clientes e contatos oficiais.
 - [Soluções](https://huntdigital.com.br/#solucoes): Growth, mídia, conteúdo, sites, e-commerce, branding e automação com IA.
 - [Método](https://huntdigital.com.br/#metodo): Diagnóstico, estratégia, execução e otimização.
-- [Casos](https://huntdigital.com.br/#casos): Laboratório Apolo, BIM Ateliê, Chilli Beans, Laveo, Mariah Teams e Rio Coffe e Fazenda Andrade.
+- [Casos](https://huntdigital.com.br/#casos): Laboratório Apolo, BIM Ateliê, Chilli Beans, Laveo, Mariah Teams e Fazenda Andrade e Rio Coffee.
 - [Perguntas frequentes](https://huntdigital.com.br/#faq): Atendimento a empresas iniciantes, projetos pontuais e gestão de marketing.
 
 ## Contato

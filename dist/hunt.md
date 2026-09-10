@@ -25,25 +25,37 @@ A Hunt Digital é uma empresa de marketing e tecnologia com visão comercial. Co
 
 ### Laboratório Apolo
 
+Laboratório de análises clínicas e vacinas.
+
 Gestão de mídias sociais e tráfego pago, sites e e-commerce para uma rede com 32 filiais em Minas Gerais. Resultados informados: crescimento de 32% nos exames agendados online, aumento de 11% na base de clientes das 32 filiais e mais de 9.000 novos clientes.
 
 ### BIM Ateliê
+
+Varejista de artesanato.
 
 Gestão de tráfego para o site, Shopee Ads e consultoria para otimização e ativação de canais de venda. Resultado informado: aumento de 38% no faturamento da loja online própria. Ativação de Mercado Livre, Amazon e TikTok como canais de vendas.
 
 ### Chilli Beans
 
+Varejista de óculos e relógios.
+
 Campanha de Dia das Mães para uma loja franqueada em Minas Gerais, identificada no site como loja 12554. Trabalho com influenciadora, fotografia, edição e gestão de tráfego. Não há resultado numérico publicado para este caso.
 
 ### Laveo
+
+Lavagem automotiva automatizada e varejista de produtos para estética automotiva.
 
 Estruturação de redes sociais com foco em SEO para descoberta no Google e no Instagram. Consultoria para estratégias de lançamento e inauguração e estruturação da campanha de inauguração.
 
 ### Mariah Teams
 
+Personal trainer com ecossistema e metodologia especial.
+
 Gestão de mídias sociais, criação de marca e consultoria para estratégias de lançamento de produtos.
 
-### Rio Coffe e Fazenda Andrade
+### Fazenda Andrade e Rio Coffee
+
+Fazenda e exportadora de café.
 
 Criação de kit de marca completo.
 
