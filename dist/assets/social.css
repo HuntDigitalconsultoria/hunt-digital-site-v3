@@ -1,0 +1,31 @@
+.social-link,
+.footer-instagram {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.social-link {
+  margin-top: 0.35rem;
+}
+
+.social-link svg,
+.footer-instagram svg {
+  width: 20px;
+  height: 20px;
+  flex: 0 0 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+}
+
+.social-link .social-dot,
+.footer-instagram .social-dot {
+  fill: currentColor;
+  stroke: none;
+}
+
+.social-link:hover,
+.footer-instagram:hover {
+  color: #ed7839;
+}
